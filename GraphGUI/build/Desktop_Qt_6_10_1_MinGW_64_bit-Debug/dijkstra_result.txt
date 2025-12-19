@@ -1,0 +1,6 @@
+Dijkstra's Shortest Path from Node 1
+Dst	Dist	Path
+2	10	1->2
+3	15	1->2->3
+4	16	1->2->4
+5	16	1->2->4->5
